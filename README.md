@@ -6,3 +6,5 @@
 ##  Link mô phỏng Wokwi
 Bạn có thể xem và chạy thử mạch mô phỏng trực tiếp tại đây:
  [Xem mô phỏng trên Wokwi](https://wokwi.com/projects/479989925760706561)
+ ## Link Web:
+(https://hhoa42744-ship-it.github.io/hoalab2/)
