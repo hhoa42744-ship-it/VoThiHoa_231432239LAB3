@@ -1,4 +1,4 @@
-#  Bài Lab 3 - Hệ thống nhúng
+#  Bài Lab 3 - Hệ thống nhúng đề 2
 
 * Họ và tên: Võ Thị Hoa
 * Mã sinh viên: 231432239
