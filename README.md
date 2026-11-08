@@ -1,4 +1,4 @@
-# Báo cáo Bài Lab 3 - Nhúng ESP32
+#  Bài Lab 3 - Hệ thống nhúng
 
 * Họ và tên: Võ Thị Hoa
 * Mã sinh viên: 231432239
