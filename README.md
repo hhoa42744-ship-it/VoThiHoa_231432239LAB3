@@ -4,7 +4,7 @@
 
 ---
 
-## Nội dung đề tài
+## Đề tài
 Giám sát và điều khiển nông nghiệp cho vườn cây công nghiệp (cà phê, hồ tiêu).
 
 ---
