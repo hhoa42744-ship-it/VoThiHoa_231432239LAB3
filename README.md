@@ -25,7 +25,7 @@ Task cảnh báo (Core 1): Đọc dataAlert và tự động điều khiển má
 ## Cấu trúc kho lưu trữ
 + README.md
 + BÁO CÁO THỰC HÀNH LAB 3.docx
-+ sketch_nov7a
++ Thư mục sketch_nov7a
 + .gitignore
 + index.html
 
