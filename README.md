@@ -36,6 +36,6 @@ Task cảnh báo (Core 1): Đọc dataAlert và tự động điều khiển má
 ## Liên kết trực quan
 Mô phỏng Wokwi: [https://wokwi.com/projects/479989925760706561](https://wokwi.com/projects/479989925760706561)
 
-Web Demo: [https://hhoa42744-ship-it.github.io/VoThiHoa_231432239LAB3/](https://hhoa42744-ship-it.github.io/VoThiHoa_231432239LAB3/)
+Web Demo: [https://hhoa42744-ship-it.github.io/hoalab2/](https://hhoa42744-ship-it.github.io/hoalab2/)
 
 </div>
