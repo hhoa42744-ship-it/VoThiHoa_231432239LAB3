@@ -22,12 +22,8 @@ Task cảnh báo (Core 1): Đọc dataAlert và tự động điều khiển má
 
 ---
 
-## Cấu trúc kho lưu trữ bao gồm:
-+ README.md
-+ BÁO CÁO THỰC HÀNH LAB 3.docx
-+ Thư mục sketch_nov7a
-+ .gitignore
-+ index.html
+## Cấu trúc kho lưu trữ
+Cấu trúc kho lưu trữ bao gồm: Báo cáo thực hành, Thư mục mã nguồn lập trình, Tệp giao diện web.
 
 ---
 
