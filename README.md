@@ -31,4 +31,4 @@ Cấu trúc kho lưu trữ bao gồm: Báo cáo thực hành, Thư mục mã ngu
 ## Liên kết trực quan
 Mô phỏng Wokwi: [Xem mô phỏng trên Wokwi](https://wokwi.com/projects/479989925760706561)
 
-Web Demo: [Xem trang web demo](https://hhoa42744-ship-it.github.io/hoalab2/)
+Web Demo: [Xem trang web demo](https://wokwi.com/projects/480677227669148673)
